@@ -1,0 +1,60 @@
+Chalk
+METATYPE: HANUMAN
+B 1, A 3/5, R 2, S 6/8, W 4, L 1, I 7/8, C 1, ESS 6, EDG 2, M 6, I 1
+Condition Monitor (P/S): 9 / 10
+Armor: 17
+Limits: Physical 7, Mental 5, Social 6
+Physical Initiative: 9/10+1D6
+Active Skills: Alchemy (Contact +2) 1, Arcana 1, Archery (Bows +2) 5, Assensing 5, Blades 1, Gymnastics (Climbing +2) 1, Perception (Hearing +2) 1, Pistols 1, Ritual Spellcasting 1, Spellcasting (Illusion Spells +2, Manipulation Spells +2) 5
+Knowledge Skills: Aura Identification 2, Awakened Drug Use 1, Blood Stain Analysis 2, Psychology 5, Ressonance Signatures 1, Tracking Teqniques 2
+Languages: Aztlaner Spanish 3, English N
+Metatype Abilities: Enhanced Senses: Thermographic Vision
+Qualities: Blind (w/ Astral Sight), Dedicated Spellslinger, Functional Tail - Prehensile, In Debt (Borrowed 25,000¥, Owes 37,500¥) (5), Mentor Spirit: Magician Powers: Fire-Bringer, Magician Powers, Monkey Paws, Prototype Transhuman: Wanted, Puppet Master (1), SINner (Corporate Limited SIN): Aztechnology, Sioux Mystic Adept, Unusual Hair: Body, Wanted
+Spells: Blood Puppet, Blood Whip, Borrow Sense, Corpse Lash, Embolism, Improved Invisibility, Increase Willpower (limited), Influence, Levitate, Mass Agony, Mass Sight Removal, Viscera Web (limited)
+Rituals: Blood Sight, Death Mark, Grave Binding
+Alchemical Preparations: Clot, Rupture
+Adept Powers: Astral Perception, Blind Fighting, Enhanced Accuracy: Archery, Improved Sense: Select Sound Filter 6, Improved Sense: Ultrasound Sensor, Nimble Fingers, Rapid Draw
+Metamagic: (Initiate Grade 1) Sacrifice
+Augmentations:
+   Cerebellum Booster (Prototype) (Alphaware) (1) w/ Prototype Transhuman
+   Damage Compensators (Prototype) (2) w/ Prototype Transhuman
+   Muscle Augmentation (Prototype) (Alphaware) (2) w/ Prototype Transhuman
+   Muscle Toner (Prototype) (Alphaware) (2) w/ Prototype Transhuman
+Gear:
+   Deepweed x5
+   Fetish: Increase Willpower
+   Fetish: Viscera Web
+   Forearm Guards w/ Tag Eraser
+      FTL Quark
+   FTL Quark
+   Reagents, tainted raw (dram): Sioux x20
+   Reagents, tainted refined (dram): Sioux x5
+   Shade x2
+   Shua Bennon w/ (1 month) Biofiber Pocket Nutrient Solution, License: Ahi, License: Berretta, License: Mystic Adept, License: Saphire Knife, (1 month) Low Lifestyle
+   Slab x2
+   Sleeping Tiger w/ Auto-Injector, Biofiber Pocket, Custom Fit, Faraday Pocket, Holster, Newest Model, Nonconductivity (1), Quick-Draw Holster, Ruthenium Polymer Coating (3), Synergist Business Line Longcoat
+   Snake
+   Soothsayer x5
+   Spellcasting Focus: Manipulation Spells (3)
+Weapons:
+   Beretta 201T [Light Pistol, Acc 7, DV 6P, AP –, SA/BF, RC 1(2), 21 (c)] w/ Electronic Firing, Folding Stock, Gecko Grip, Personalized Grip, Tracker
+   Bow (Compound) Foci Athame (3) Weapon Focus (3) (8) [Bow, Acc 11, DV 2P, AP –] w/ Gecko Grip, Personalized Grip, Smartgun System, Internal, Trigger Removal, Weapon Focus (3)
+      Athame (3)
+   Sapphire Knife [Blade, Acc 6, DV 10P, AP -3] w/ Gecko Grip, Personalized Grip
+   Ares Monotip Arrow, Str Min 8 x5 [Acc 0, DV –, AP -2] w/ Seeker Shafts
+   Barbed Arrow (8) [Acc 0, DV +1, AP –] w/ Seeker Shafts
+   Barbed Arrow (8) x4 [Acc 0, DV +1, AP –] w/ Seeker Shafts
+   Explosive Arrow (8) x5 [Acc -1, DV +2, AP -1] w/ Seeker Shafts
+   Flash-Bang Grenade x5 [Grenade, non-aerodynamic, Acc 7, DV 10S, 10m R, AP -4]
+   Gas Grenade, Ekyelebenie Venom x5 [Grenade, non-aerodynamic, Acc 7, DV By Chem., 10m R, AP –] w/ Ekyelebenie Venom
+   Incendiary Arrow (8) x5 [Acc -1, DV 8P(fire), AP -6] w/ Seeker Shafts
+   Injection Arrow, Str Min 8, Aconite (8) x5 [Acc 0, DV –, AP –] w/ Aconite, Seeker Shafts
+   Screamer Head Arrow (8) x5 [Acc -2, DV -2S, AP +6] w/ Seeker Shafts
+   Stick-n-Shock Arrow w/Static Shaft (8) x5 [Acc -1, DV 12S(e), AP -5]
+   Subsonic Ammo (Light Pistol) x10 [Acc 0, DV -1, AP –]
+   Thermal Smoke Grenade x5 [Grenade, non-aerodynamic, Acc 7, DV Th. Smoke, 10m R, AP –]
+Contacts:
+Nancy (Connection 2, Loyalty 1)
+
+Hero Lab and the Hero Lab logo are Registered Trademarks of LWD Technology, Inc. Free download at https://www.wolflair.com
+Shadowrun © 2005-2019 The Topps Company, Inc. All rights reserved. Shadowrun is a registered trademark of The Topps Company, Inc.
