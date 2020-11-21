@@ -1,0 +1,28 @@
+Mrs. Renraku
+METATYPE: ELF
+B 2, A 3, R 5, S 2, W 5, L 6/8, I 5, C 7, ESS 4.5, EDG 1, R 4
+Condition Monitor (P/S): 9 / 11
+Armor: 8
+Limits: Physical 4, Mental 9, Social 11
+Physical Initiative: 10+1D6
+Matrix Initiative: 13+4D6
+Active Skills: Blades (Swords +2) 1, Compiling (Data Sprites +2) 4, Computer 3, Cybercombat 3, Decompiling (Data Sprites +2) 4, Electronic Warfare 2, Hacking (vs. Personas +2) 3, Hardware 3, Influence Group 5, Perception 3, Performance 3, Registering (Data Sprites +2) 3, Software (Cleaner +2, Editor +2) 3
+Languages: Arabic 6, Aztlaner Sign Language N, Aztlaner Spanish 6, English N
+Metatype Abilities: Enhanced Senses: Low-Light Vision
+Qualities: Bilingual, Human-Looking, Magic Resistance (4), Technomancer
+Complex Forms: Editor, Puppeteer, Transcendent Grid
+Augmentations:
+   Cerebral Booster (2)
+   Cyberears (4) w/ Audio Enhancement (2), Sound Link, Spatial Recognizer
+   Tailored Pheromones (3)
+Gear:
+   Actioneer Business Clothes
+   Emile Sechclaire w/ (1 month) Luxury Lifestyle
+Weapons:
+   Katana [Blade,Blade, Reach 1, Acc 7, DV 5P, AP -3]
+Contacts:
+Mafia Consigliere (Connection 3, Loyalty 2)
+Starting ¥: 6D6 × 1000¥
+
+Hero Lab and the Hero Lab logo are Registered Trademarks of LWD Technology, Inc. Free download at https://www.wolflair.com
+Shadowrun © 2005-2019 The Topps Company, Inc. All rights reserved. Shadowrun is a registered trademark of The Topps Company, Inc.
