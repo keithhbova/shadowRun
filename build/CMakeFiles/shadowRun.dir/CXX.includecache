@@ -377,10 +377,6 @@ players.h
 /home/keith/Desktop/shadowrunstuff/shadowRun/shadowRunBase/players.h
 
 /home/keith/Desktop/shadowrunstuff/shadowRun/shadowRunBase/utils.h
-stdio.h
--
-iostream
--
 fstream
 -
 yaml-cpp/yaml.h
@@ -388,5 +384,13 @@ yaml-cpp/yaml.h
 string
 -
 sstream
+-
+stdio.h
+-
+direct.h
+-
+unistd.h
+-
+iostream
 -
 
