@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/shadowRun.dir/main.cpp.o"
+  "CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.o"
+  "CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.o"
+  "CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.o"
   "shadowRun.pdb"
   "shadowRun"
 )

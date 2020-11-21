@@ -309,6 +309,9 @@ YAML_CPP_CLANG_FORMAT_EXE:FILEPATH=YAML_CPP_CLANG_FORMAT_EXE-NOTFOUND
 //Value Computed by CMake
 YAML_CPP_SOURCE_DIR:STATIC=/home/keith/Desktop/shadowrunstuff/shadowRun/3rdParty/yaml-cpp
 
+//Dependencies for target
+shadowRunBase_LIB_DEPENDS:STATIC=
+
 //Value Computed by CMake
 shadowRun_BINARY_DIR:STATIC=/home/keith/Desktop/shadowrunstuff/shadowRun/build
 

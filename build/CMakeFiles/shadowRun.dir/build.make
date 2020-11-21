@@ -57,42 +57,94 @@ include CMakeFiles/shadowRun.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/shadowRun.dir/flags.make
 
-CMakeFiles/shadowRun.dir/main.cpp.o: CMakeFiles/shadowRun.dir/flags.make
-CMakeFiles/shadowRun.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/keith/Desktop/shadowrunstuff/shadowRun/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/shadowRun.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/shadowRun.dir/main.cpp.o -c /home/keith/Desktop/shadowrunstuff/shadowRun/main.cpp
+CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.o: CMakeFiles/shadowRun.dir/flags.make
+CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.o: ../shadowRunBase/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/keith/Desktop/shadowrunstuff/shadowRun/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.o -c /home/keith/Desktop/shadowrunstuff/shadowRun/shadowRunBase/main.cpp
 
-CMakeFiles/shadowRun.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/shadowRun.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/keith/Desktop/shadowrunstuff/shadowRun/main.cpp > CMakeFiles/shadowRun.dir/main.cpp.i
+CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/keith/Desktop/shadowrunstuff/shadowRun/shadowRunBase/main.cpp > CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.i
 
-CMakeFiles/shadowRun.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/shadowRun.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/keith/Desktop/shadowrunstuff/shadowRun/main.cpp -o CMakeFiles/shadowRun.dir/main.cpp.s
+CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/keith/Desktop/shadowrunstuff/shadowRun/shadowRunBase/main.cpp -o CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.s
 
-CMakeFiles/shadowRun.dir/main.cpp.o.requires:
+CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.o.requires:
 
-.PHONY : CMakeFiles/shadowRun.dir/main.cpp.o.requires
+.PHONY : CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.o.requires
 
-CMakeFiles/shadowRun.dir/main.cpp.o.provides: CMakeFiles/shadowRun.dir/main.cpp.o.requires
-	$(MAKE) -f CMakeFiles/shadowRun.dir/build.make CMakeFiles/shadowRun.dir/main.cpp.o.provides.build
-.PHONY : CMakeFiles/shadowRun.dir/main.cpp.o.provides
+CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.o.provides: CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.o.requires
+	$(MAKE) -f CMakeFiles/shadowRun.dir/build.make CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.o.provides.build
+.PHONY : CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.o.provides
 
-CMakeFiles/shadowRun.dir/main.cpp.o.provides.build: CMakeFiles/shadowRun.dir/main.cpp.o
+CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.o.provides.build: CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.o
+
+
+CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.o: CMakeFiles/shadowRun.dir/flags.make
+CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.o: ../shadowRunBase/skills.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/keith/Desktop/shadowrunstuff/shadowRun/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.o -c /home/keith/Desktop/shadowrunstuff/shadowRun/shadowRunBase/skills.cpp
+
+CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/keith/Desktop/shadowrunstuff/shadowRun/shadowRunBase/skills.cpp > CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.i
+
+CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/keith/Desktop/shadowrunstuff/shadowRun/shadowRunBase/skills.cpp -o CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.s
+
+CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.o.requires:
+
+.PHONY : CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.o.requires
+
+CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.o.provides: CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.o.requires
+	$(MAKE) -f CMakeFiles/shadowRun.dir/build.make CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.o.provides.build
+.PHONY : CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.o.provides
+
+CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.o.provides.build: CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.o
+
+
+CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.o: CMakeFiles/shadowRun.dir/flags.make
+CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.o: ../shadowRunBase/players.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/keith/Desktop/shadowrunstuff/shadowRun/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.o -c /home/keith/Desktop/shadowrunstuff/shadowRun/shadowRunBase/players.cpp
+
+CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/keith/Desktop/shadowrunstuff/shadowRun/shadowRunBase/players.cpp > CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.i
+
+CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/keith/Desktop/shadowrunstuff/shadowRun/shadowRunBase/players.cpp -o CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.s
+
+CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.o.requires:
+
+.PHONY : CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.o.requires
+
+CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.o.provides: CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.o.requires
+	$(MAKE) -f CMakeFiles/shadowRun.dir/build.make CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.o.provides.build
+.PHONY : CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.o.provides
+
+CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.o.provides.build: CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.o
 
 
 # Object files for target shadowRun
 shadowRun_OBJECTS = \
-"CMakeFiles/shadowRun.dir/main.cpp.o"
+"CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.o" \
+"CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.o" \
+"CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.o"
 
 # External object files for target shadowRun
 shadowRun_EXTERNAL_OBJECTS =
 
-shadowRun: CMakeFiles/shadowRun.dir/main.cpp.o
+shadowRun: CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.o
+shadowRun: CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.o
+shadowRun: CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.o
 shadowRun: CMakeFiles/shadowRun.dir/build.make
 shadowRun: 3rdParty/yaml-cpp/libyaml-cpp.a
 shadowRun: CMakeFiles/shadowRun.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/keith/Desktop/shadowrunstuff/shadowRun/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable shadowRun"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/keith/Desktop/shadowrunstuff/shadowRun/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable shadowRun"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/shadowRun.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -100,7 +152,9 @@ CMakeFiles/shadowRun.dir/build: shadowRun
 
 .PHONY : CMakeFiles/shadowRun.dir/build
 
-CMakeFiles/shadowRun.dir/requires: CMakeFiles/shadowRun.dir/main.cpp.o.requires
+CMakeFiles/shadowRun.dir/requires: CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.o.requires
+CMakeFiles/shadowRun.dir/requires: CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.o.requires
+CMakeFiles/shadowRun.dir/requires: CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.o.requires
 
 .PHONY : CMakeFiles/shadowRun.dir/requires
 

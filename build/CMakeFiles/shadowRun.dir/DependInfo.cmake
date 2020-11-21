@@ -4,7 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/keith/Desktop/shadowrunstuff/shadowRun/main.cpp" "/home/keith/Desktop/shadowrunstuff/shadowRun/build/CMakeFiles/shadowRun.dir/main.cpp.o"
+  "/home/keith/Desktop/shadowrunstuff/shadowRun/shadowRunBase/main.cpp" "/home/keith/Desktop/shadowrunstuff/shadowRun/build/CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.o"
+  "/home/keith/Desktop/shadowrunstuff/shadowRun/shadowRunBase/players.cpp" "/home/keith/Desktop/shadowrunstuff/shadowRun/build/CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.o"
+  "/home/keith/Desktop/shadowrunstuff/shadowRun/shadowRunBase/skills.cpp" "/home/keith/Desktop/shadowrunstuff/shadowRun/build/CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

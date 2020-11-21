@@ -539,32 +539,86 @@ yaml-cpp-parse/fast:
 	$(MAKE) -f 3rdParty/yaml-cpp/util/CMakeFiles/yaml-cpp-parse.dir/build.make 3rdParty/yaml-cpp/util/CMakeFiles/yaml-cpp-parse.dir/build
 .PHONY : yaml-cpp-parse/fast
 
-main.o: main.cpp.o
+shadowRunBase/main.o: shadowRunBase/main.cpp.o
 
-.PHONY : main.o
+.PHONY : shadowRunBase/main.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/shadowRun.dir/build.make CMakeFiles/shadowRun.dir/main.cpp.o
-.PHONY : main.cpp.o
+shadowRunBase/main.cpp.o:
+	$(MAKE) -f CMakeFiles/shadowRun.dir/build.make CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.o
+.PHONY : shadowRunBase/main.cpp.o
 
-main.i: main.cpp.i
+shadowRunBase/main.i: shadowRunBase/main.cpp.i
 
-.PHONY : main.i
+.PHONY : shadowRunBase/main.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/shadowRun.dir/build.make CMakeFiles/shadowRun.dir/main.cpp.i
-.PHONY : main.cpp.i
+shadowRunBase/main.cpp.i:
+	$(MAKE) -f CMakeFiles/shadowRun.dir/build.make CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.i
+.PHONY : shadowRunBase/main.cpp.i
 
-main.s: main.cpp.s
+shadowRunBase/main.s: shadowRunBase/main.cpp.s
 
-.PHONY : main.s
+.PHONY : shadowRunBase/main.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/shadowRun.dir/build.make CMakeFiles/shadowRun.dir/main.cpp.s
-.PHONY : main.cpp.s
+shadowRunBase/main.cpp.s:
+	$(MAKE) -f CMakeFiles/shadowRun.dir/build.make CMakeFiles/shadowRun.dir/shadowRunBase/main.cpp.s
+.PHONY : shadowRunBase/main.cpp.s
+
+shadowRunBase/players.o: shadowRunBase/players.cpp.o
+
+.PHONY : shadowRunBase/players.o
+
+# target to build an object file
+shadowRunBase/players.cpp.o:
+	$(MAKE) -f CMakeFiles/shadowRun.dir/build.make CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.o
+.PHONY : shadowRunBase/players.cpp.o
+
+shadowRunBase/players.i: shadowRunBase/players.cpp.i
+
+.PHONY : shadowRunBase/players.i
+
+# target to preprocess a source file
+shadowRunBase/players.cpp.i:
+	$(MAKE) -f CMakeFiles/shadowRun.dir/build.make CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.i
+.PHONY : shadowRunBase/players.cpp.i
+
+shadowRunBase/players.s: shadowRunBase/players.cpp.s
+
+.PHONY : shadowRunBase/players.s
+
+# target to generate assembly for a file
+shadowRunBase/players.cpp.s:
+	$(MAKE) -f CMakeFiles/shadowRun.dir/build.make CMakeFiles/shadowRun.dir/shadowRunBase/players.cpp.s
+.PHONY : shadowRunBase/players.cpp.s
+
+shadowRunBase/skills.o: shadowRunBase/skills.cpp.o
+
+.PHONY : shadowRunBase/skills.o
+
+# target to build an object file
+shadowRunBase/skills.cpp.o:
+	$(MAKE) -f CMakeFiles/shadowRun.dir/build.make CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.o
+.PHONY : shadowRunBase/skills.cpp.o
+
+shadowRunBase/skills.i: shadowRunBase/skills.cpp.i
+
+.PHONY : shadowRunBase/skills.i
+
+# target to preprocess a source file
+shadowRunBase/skills.cpp.i:
+	$(MAKE) -f CMakeFiles/shadowRun.dir/build.make CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.i
+.PHONY : shadowRunBase/skills.cpp.i
+
+shadowRunBase/skills.s: shadowRunBase/skills.cpp.s
+
+.PHONY : shadowRunBase/skills.s
+
+# target to generate assembly for a file
+shadowRunBase/skills.cpp.s:
+	$(MAKE) -f CMakeFiles/shadowRun.dir/build.make CMakeFiles/shadowRun.dir/shadowRunBase/skills.cpp.s
+.PHONY : shadowRunBase/skills.cpp.s
 
 # Help Target
 help:
@@ -607,9 +661,15 @@ help:
 	@echo "... yaml-cpp-read"
 	@echo "... yaml-cpp-sandbox"
 	@echo "... yaml-cpp-parse"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... shadowRunBase/main.o"
+	@echo "... shadowRunBase/main.i"
+	@echo "... shadowRunBase/main.s"
+	@echo "... shadowRunBase/players.o"
+	@echo "... shadowRunBase/players.i"
+	@echo "... shadowRunBase/players.s"
+	@echo "... shadowRunBase/skills.o"
+	@echo "... shadowRunBase/skills.i"
+	@echo "... shadowRunBase/skills.s"
 .PHONY : help
 
 
